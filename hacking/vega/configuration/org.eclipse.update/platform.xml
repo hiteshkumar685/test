@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1512748408783" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="com.subgraph.vega.feature" url="features/com.subgraph.vega.feature_1.0.0.201410142137/" version="1.0.0.201410142137">
+</feature>
+<feature id="org.eclipse.rcp" url="features/org.eclipse.rcp_3.8.0.v20120528-1716-92BmGJTFw3Ez0W7_KvHqgZUR/" version="3.8.0.v20120528-1716-92BmGJTFw3Ez0W7_KvHqgZUR">
+</feature>
+</site>
+</config>

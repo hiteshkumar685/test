@@ -1,0 +1,18 @@
+[report]
+exclude_lines =
+    if __name__ == .__main__.:
+    raise NotImplementedError
+    pass
+    def print_lattice
+    def print_table
+    def __repr__
+    def __str__
+
+[run]
+omit =
+    pyt/definition_chains.py
+    pyt/draw.py
+    pyt/github_search.py
+    pyt/intraprocedural_cfg.py
+    pyt/repo_runner.py
+    pyt/save.py
